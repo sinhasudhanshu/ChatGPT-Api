@@ -1,0 +1,56 @@
+
+/* Styling for the chat container */
+.chat-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styling for the input field */
+.chat-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Styling for the submit button */
+.chat-submit {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Styling for the chat bubble */
+.chat-bubble {
+  margin-bottom: 10px;
+}
+
+/* Styling for the user message */
+.user-message {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+/* Styling for the assistant message */
+.assistant-message {
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
